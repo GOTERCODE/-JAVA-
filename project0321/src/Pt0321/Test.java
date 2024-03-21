@@ -15,3 +15,4 @@ public class Test {
 		System.out.println(b);
 	}
 }
+// Scanner sc = new Scanner(System.in); 입력 후 컨트롤 쉬프트 O
